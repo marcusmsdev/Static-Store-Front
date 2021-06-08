@@ -1,0 +1,253 @@
+/*Header*/
+
+.headerone {
+    background-color: black;
+    padding:  .1em ;
+}
+
+/*Header li CSS*/
+
+.more {
+    list-style-type: none;
+    display: inline;
+    float: right;
+    padding: 1em;
+    margin-top: 3em;
+    margin-left: 2em;
+    text-decoration: none;
+}
+    
+/*Header Text*/
+
+h1 {
+    margin-left: 2em;
+    font-size: 3em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+  }
+
+ /*Second Header*/
+
+  .jumper {
+    background-color: white;
+    padding: 1em 3em 1em 5em;
+    margin-left: ;
+    text-align: center;
+}
+
+.next {
+    list-style-type: none;
+    display: inline;
+    float: center;
+    padding: .1em;
+    margin: 2.5%;
+}
+
+/*third header*/
+
+section#sidebar {
+    margin-top: 15em;
+    width: 200px;
+    float: left;
+    display: block;
+    border-radius: ;
+    border: black solid 5px;
+}
+
+
+
+.band {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.bandtwo {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+img {
+    width: 100%;
+    
+}
+
+
+
+
+section div.panel img.mousetype {
+    width: 75%;
+}
+
+
+
+
+section div.mice{
+    
+    position: relative;
+    width: 250px;
+    margin: 0 0.5em 2.0em 0.5em;
+    padding: 1.0em;
+    background-color: #fff;
+    
+    display: inline-block;
+    
+}
+
+/*SECTION CSS*/
+
+section#main {
+    /*background-color: #FCFBE6;*/
+    
+    margin: 0 0 2.0em;
+    margin-left: 35em;
+    margin-top: 10em;
+    display: block;
+   
+   
+    
+}
+
+section#jump {
+    /*background-color: #FCFBE6;*/
+    
+    margin: 0 0 2.0em;
+    margin-left: 35em;
+    display: block;
+    
+}    
+
+section#water {
+        
+        
+        margin: 0 0 2.0em;
+        margin-left: 35em;
+        margin-top: -5em;
+        display: block;
+        
+     
+}
+
+/*gsgfsfsfgsfsfs*/
+
+section div.hope{
+    
+    position: relative;
+    width: 250px;
+    margin: 0 0.5em 2.0em 0.5em;
+    padding: 1.0em;
+    background-color: #fff;
+    
+    display: inline-block;
+    margin-top: -10em;
+    
+    
+}
+
+
+    
+    
+
+section div.can{
+    
+    position: relative;
+    width: 250px;
+    margin: 0 0.5em 2.0em 0.5em;
+    padding: 1.0em;
+    background-color: #fff;
+    
+    display: inline-block;
+}
+
+.white {
+    text-align: center;
+}
+
+
+
+    
+footer {
+    background-color: black;
+    height: 25px;
+    font-size: 1.2em;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    bottom: 0;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    margin-left: 50%;
+}
+
+footer ul#menuFooter {
+    display: inline-block;
+    list-style: none;
+    margin: 0 0 0 0.6em;
+    padding: 0;
+}
+    
+    footer ul li {
+    display: inline-block;
+    padding: 0 1em 0 0;
+    margin: 0;
+    
+}
+
+footer ul li::before {
+    content: "|";
+    padding-right: 0.7em;
+}
+
+footer a, footer a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+.money {
+    display: inline-block;
+    
+
+}
+
+.mousetype {
+
+    width: 100;
+    height: 100;
+    display: block;
+    
+}
+
+body {
+
+    background-color: 
+}
+    
+h2 {
+    color: red;
+}
+
+button a:hover {
+    color:red;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+   
+
+
